@@ -36,7 +36,7 @@ The presentation summarizes the research findings and conducted analyses.
 - Data exploration and visualization
 - Splitting data to training set 70% and testing set 30% 
 - Cleaning data on training set including outliers, duplicates, gruping, removing independent attributes that shows a high correlation among temselves.  
-- Categorical variables treatment
+- Categorical variables treatment with custom function by sklearn's LabelEncoder
 - Class Balance (Oversampling  SMOTE)
 - Feature Training 
   - Filter (Mutual Information) 
