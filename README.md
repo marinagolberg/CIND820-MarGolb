@@ -44,6 +44,7 @@ The presentation summarizes the research findings and conducted analyses.
   - Embedded methods (LASSO Regularization L1) 
 - Feature Selection, Extraction
 - Classification Algorithms Logistic Regression, Desision Tree, Rendom Forest (12 times will run)
+- Predicting on testing set
 - Algorithms Evaluation ROC_AUC, Precision, Recall, F1, PR_AUC, Brier Score
 - Classification Results
 
