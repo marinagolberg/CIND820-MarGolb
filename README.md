@@ -40,8 +40,9 @@ The presentation summarizes the research findings and conducted analyses.
 - Class Balance (Oversampling  SMOTE)
 - Feature Training 
   - Filter (Mutual Information) 
-  - Wrapper (Forward Selection) 
-  - Feature Selection, Extraction
+  - Wrapper (Forward Selection)
+  - Embedded methods (LASSO Regularization L1) 
+- Feature Selection, Extraction
 - Classification Algorithms Logistic Regression, Desision Tree, Rendom Forest (12 times will run)
 - Algorithms Evaluation ROC_AUC, Precision, Recall, F1, PR_AUC, Brier Score
 - Classification Results
