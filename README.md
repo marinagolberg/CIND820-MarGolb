@@ -35,7 +35,7 @@ The presentation summarizes the research findings and conducted analyses.
 # **Methodology**
 - Data exploration and visualization
 - Splitting data to training set 70% and testing set 30% 
-- Cleaning data on training set including outliers, duplicates, gruping,   
+- Cleaning data on training set including outliers, duplicates, gruping, removing independent attributes that shows a high correlation among temselves.  
 - Categorical variables treatment
 - Class Balance (Oversampling  SMOTE)
 - Feature Training 
