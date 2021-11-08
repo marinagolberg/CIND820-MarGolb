@@ -41,7 +41,7 @@ The presentation summarizes the research findings and conducted analyses.
 - Feature Training 
   - Filter (Mutual Information) 
   - Wrapper (Forward Selection)
-  - Embedded methods (LASSO Regularization L1) 
+  - Embedded method (LASSO Regularization L1) 
 - Feature Selection, Extraction
 - Classification Algorithms Logistic Regression, Desision Tree, Rendom Forest (12 times will run)
 - Predicting on testing set
