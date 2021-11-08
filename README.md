@@ -13,15 +13,19 @@ Businesses these days are using every available platform to do marketing of thei
 # **Project Structure**	
 
 **1. Abstract** 
+
 The abstract briefly describes the research question and methods that are used.  
 
-**2. Literature Review** 
+**2. Literature Review**
+
 The Literature Review research and review papers and technical articles related to the same problem were chosen.
  
 **3. Initial Results and the Code**
+
 Contains Data analyses, including summarizing and visualizing data, data preparation, including selecting, preprocessing, and transforming data, models evaluation, including testing options, exploring algorithms, and reporting results.
 
 **4. Final Results and Project Report**
+
 The Project Report documents the data analysis procedures and evaluates the developed machine learning. Documents the statistical analyses and covers the analysis limitations, study implications, and critical insights on improving the work. Fully interpret the achieved results of the proposed methodology.
 
 **5. Final Presentation**
