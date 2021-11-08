@@ -32,8 +32,19 @@ The Project Report documents the data analysis procedures and evaluates the deve
 
 The presentation summarizes the research findings and conducted analyses.
 
-
-
+# **Methodology**
+- Data exploration and visualization
+- Splitting data to training set 70% and testing set 30% 
+- Cleaning data on training set including outliers, duplicates, gruping  
+- Categorical variables treatment
+- Class Balance (Oversampling  SMOTE)
+- Feature Training 
+  - Filter (Mutual Information) 
+  - Wrapper (Forward Selection) 
+  - Feature Selection, Extraction
+- Classification Algorithms Logistic Regression, Desision Tree, Rendom Forest (12 times will run)
+- Algorithms Evaluation ROC_AUC, Precision, Recall, F1, PR_AUC, Brier Score
+- Classification Results
 
 
 
