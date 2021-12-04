@@ -48,5 +48,8 @@ The presentation summarizes the research findings and conducted analyses.
 - Algorithms Evaluation ROC_AUC, Precision, Recall, F1, PR_AUC, Brier Score
 - Classification Results
 
+# **Results**
+
+![image](https://user-images.githubusercontent.com/89535019/144695660-ffafa5a9-0e9d-415d-9f52-de5fc123aaf1.png)
 
 
